@@ -1,3 +1,4 @@
 Resolusi 2021 
   Belajar webphp dan codeenginer
-  Membuat penawaran websitie
+  Membuat penawaran website
+  Membuat aplikasi hotel basis web
