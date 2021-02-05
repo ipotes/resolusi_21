@@ -1,5 +1,5 @@
 Resolusi 2021 
   Belajar webphp dan codeenginer
   Membuat penawaran website
-  Membuat aplikasi hotel basis web
   Menawarkan aplikasi ke hotel-hotel
+  Membuat ruko
